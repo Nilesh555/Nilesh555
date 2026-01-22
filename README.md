@@ -96,9 +96,3 @@
 I love turning ideas into real web applications 🚀
 
 
-
-
-
-
-
-AWS (Basics)
