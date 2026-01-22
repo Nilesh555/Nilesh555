@@ -1,48 +1,49 @@
 👋 Hi, I'm Nilesh Chudasama
 
-🚀 Web Developer | Frontend & Backend Enthusiast
-💻 Passionate about building modern, scalable, and user-friendly web applications
+- 🚀 Web Developer | Frontend & Backend Enthusiast
+- 💻 Passionate about building modern, 
+-  scalable, and user-friendly web applications
 
 
-🧑‍💻 About Me
+  🧑‍💻 About Me
 
-🌱 Currently learning Advanced Web Development & Cloud
-🔭 Working with React, Redux, Django, Flask
-💡 Interested in Full-Stack Development & APIs
-🎯 Goal: Become a Professional Full-Stack Developer
-📍 Based in India
+- 🌱 Currently learning Advanced Web Development & Cloud
+- 🔭 Working with React, Redux, Django, Flask
+- 💡 Interested in Full-Stack Development & APIs
+- 🎯 Goal: Become a Professional Full-Stack Developer
+- 📍 Based in India
 
-🛠️ Tech Stack
+  🛠️ Tech Stack
 
 🌐 Frontend
 
-HTML5
-CSS3 / Tailwind CSS
-JavaScript (ES6+)
-React.js
-Redux
+- HTML5
+- CSS3 / Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- Redux
 
 ⚙️ Backend
 
-Node.js
-Express.js
-Python
-Django
-Flask
-REST APIs
+- Node.js
+- Express.js
+- Python
+- Django
+
+
 
 🗄️ Database
 
-MySQL
-MongoDB
+- MySQL
+- MongoDB
 
 🧰 Tools & Platforms
 
-Git & GitHub
-VS Code
-Postman
-Aws basic
-Replit
+- Git & GitHub
+- VS Code
+- Postman
+- Aws basic
+- Replit
 
 
 📌 Projects
