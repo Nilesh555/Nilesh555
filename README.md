@@ -64,9 +64,9 @@ Authentication & Authorization
 📫 Connect With Me:
 
 
-💼 LinkedIn: linkedin.com/in/chudasama-nilesh-7bb647275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-📧 Email: chudasamanilesh555@gmail.com
-🌐 Portfolio: https://chudasamanilesh.netlify.app/
+- 💼 LinkedIn: linkedin.com/in/chudasama-nilesh-7bb647275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: chudasamanilesh555@gmail.com
+- 🌐 Portfolio: https://chudasamanilesh.netlify.app/
 
 ⚡ Fun Fact:
 
