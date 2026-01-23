@@ -1,11 +1,8 @@
-👋 Hi, I'm Nilesh Chudasama
-
+- 👋 Hi, I'm Nilesh Chudasama
 - 🚀 Web Developer | Frontend & Backend Enthusiast
-- 💻 Passionate about building modern, 
--  scalable, and user-friendly web applications
+- 💻 Passionate about building modern, scalable |  user-friendly web applications
 
-
-  🧑‍💻 About Me
+🧑‍💻 About Me: 
 
 - 🌱 Currently learning Advanced Web Development & Cloud
 - 🔭 Working with React, Redux, Django, Flask
@@ -13,10 +10,10 @@
 - 🎯 Goal: Become a Professional Full-Stack Developer
 - 📍 Based in India
 
-  🛠️ Tech Stack
+
+🛠️Tech Stack:
 
 🌐 Frontend
-
 - HTML5
 - CSS3 / Tailwind CSS
 - JavaScript (ES6+)
@@ -25,74 +22,57 @@
 
 ⚙️ Backend
 
-- Node.js
-- Express.js
 - Python
 - Django
-
-
+- Flask
+- REST APIs
 
 🗄️ Database
 
 - MySQL
 - MongoDB
 
-🧰 Tools & Platforms
+🧰 Tools & Platforms:
 
 - Git & GitHub
 - VS Code
-- Postman
-- Aws basic
-- Replit
+- AWS (Basics)
 
+📌 Projects:
 
-📌 Projects
-
-🔹 Portfolio Website
+🔹Portfolio Website
 
 - Personal portfolio built using React
 - Fully responsive and optimized
 
-🔹 Chatbot Web App
+🔹CRUD Web App
 
--  using react technolgy
--  responsive web app
--  fast and secure 
+- Django + MySQL based application
 
-🔹 Authentication Django Project
+Authentication & Authorization
 
- -  Built using Django | python
- -  responsive and fast
- -  simple user login & register page
-     
+🔹E-commerce  Project
+
+- Built using Django  Framework
+- Responsive and scalable
+- real time store app
+- shopping website 
 
 👉 More projects available in my repositories
 
- 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh555&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh555&layout=compact&theme=tokyonight" height="170"/>
-</p>
+📫 Connect With Me:
 
 
+💼 LinkedIn: linkedin.com/in/chudasama-nilesh-7bb647275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📧 Email: chudasamanilesh555@gmail.com
+🌐 Portfolio: https://chudasamanilesh.netlify.app/
 
-🤝 Connect With Me  
+⚡ Fun Fact:
 
-<p>
-  <a href="https://linkedin.com/in/chudasama-nilesh-7bb647275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:chudasamanilesh555@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://chudasamanilesh.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-</p>
+- I love turning ideas into real web applications 🚀
 
-⚡ Fun Fact
 
-I love turning ideas into real web applications 🚀
+
 
 
