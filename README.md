@@ -47,7 +47,7 @@
 
 - Personal portfolio built using React
 - Fully responsive and optimized
-- 
+  
 🔹 E-commerce  Project
 
 - Built using Django  Framework
