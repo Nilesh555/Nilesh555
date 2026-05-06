@@ -18,6 +18,8 @@
 - CSS3 / Tailwind CSS
 - JavaScript (ES6+)
 - React.js
+- Talwind
+- Bootstrap
 - Redux
 
 ⚙️ Backend
@@ -25,6 +27,7 @@
 - Python
 - Django
 - Flask
+- Java
 - REST APIs
 
 🗄️ Database
@@ -40,23 +43,31 @@
 
 📌 Projects:
 
-🔹Portfolio Website
+🔹 Portfolio Website
 
 - Personal portfolio built using React
 - Fully responsive and optimized
-
-🔹CRUD Web App
-
-- Django + MySQL based application
-
-Authentication & Authorization
-
-🔹E-commerce  Project
+- 
+🔹 E-commerce  Project
 
 - Built using Django  Framework
 - Responsive and scalable
 - real time store app
-- shopping website 
+- shopping website
+
+🔹 Web chatbot Project
+
+ -  Built a responsive weather web application using React
+ -  Integrated real-time weather data using external APIs
+ -  Implemented dynamic search functionality to fetch weather details
+ -  Applied component-based architecture and state management for efficient
+
+
+🔹 Food Reduction & Tracking System Project
+
+- Real-time tracking of food inventory and expiry dates
+- Smart alerts and recommendations to reduce food wastage
+- Interactive dashboard with analytics and reporting
 
 👉 More projects available in my repositories
 
