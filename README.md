@@ -1,89 +1,145 @@
-- 👋 Hi, I'm Nilesh Chudasama
-- 🚀 Web Developer | Frontend & Backend Enthusiast
-- 💻 Passionate about building modern, scalable |  user-friendly web applications
+# Hi 👋, I'm Nilesh Chudasama
 
-🧑‍💻 About Me: 
+### 🚀 Full Stack Web Developer | Django + React | MERN Stack
 
-- 🌱 Currently learning Advanced Web Development & Cloud
-- 🔭 Working with React, Redux, Django, Flask
-- 💡 Interested in Full-Stack Development & APIs
-- 🎯 Goal: Become a Professional Full-Stack Developer
-- 📍 Based in India
+I'm a **Full Stack Web Developer** passionate about building responsive, scalable, and user-friendly web applications. I work primarily with **Django + React** and the **MERN Stack**, focusing on clean code, RESTful APIs, database-driven applications, and modern web development.
 
+---
 
-🛠️Tech Stack:
+## 👨‍💻 About Me
 
-🌐 Frontend
-- HTML5
-- CSS3 / Tailwind CSS
-- JavaScript (ES6+)
-- React.js
-- Talwind
-- Bootstrap
-- Redux
+* 💻 Full Stack Web Developer
+* ⚛️ Experienced with **React.js, Django, and MERN Stack**
+* 🐍 Strong experience with **Python & Django**
+* 🌐 Building modern frontend applications with **React.js & JavaScript**
+* 🔗 Developing **RESTful APIs** and frontend-backend integrations
+* 🗄️ Working with **MongoDB, MySQL, and PostgreSQL**
+* 🔐 Implementing authentication using **JWT and secure APIs**
+* 🧩 Strong foundation in **Data Structures & Algorithms**
+* 🏆 Solved **100+ problems on LeetCode**
+* 📚 Continuously learning modern web technologies
+* 🎯 Focused on building real-world, production-ready applications
 
-⚙️ Backend
+---
 
-- Python
-- Django
-- Flask
-- Java
-- REST APIs
+## 🛠️ Tech Stack
 
-🗄️ Database
+### Frontend
 
-- MySQL
-- MongoDB
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Tailwind CSS
+* React Router
+* Axios
 
-🧰 Tools & Platforms:
+### Backend
 
-- Git & GitHub
-- VS Code
-- AWS (Basics)
+* Python
+* Django
+* Django REST Framework
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
 
-📌 Projects:
+### Databases
 
-🔹 Portfolio Website
+* MongoDB
+* MySQL
+* PostgreSQL
 
-- Personal portfolio built using React
-- Fully responsive and optimized
-  
-🔹 E-commerce  Project
+### Tools & Technologies
 
-- Built using Django  Framework
-- Responsive and scalable
-- real time store app
-- shopping website
+* Git
+* GitHub
+* VS Code
+* Postman
+* Vite
+* npm
 
-🔹 Web chatbot Project
+---
 
- -  Built a responsive weather web application using React
- -  Integrated real-time weather data using external APIs
- -  Implemented dynamic search functionality to fetch weather details
- -  Applied component-based architecture and state management for efficient
+## 🚀 Featured Projects
 
+### 🎫 Event Booking Web Application
 
-🔹 Food Reduction & Tracking System Project
+**MERN Stack**
 
-- Real-time tracking of food inventory and expiry dates
-- Smart alerts and recommendations to reduce food wastage
-- Interactive dashboard with analytics and reporting
+A full-stack event booking platform with authentication, event management, event details, and booking functionality.
 
-👉 More projects available in my repositories
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT
 
+---
 
-📫 Connect With Me:
+### 🏋️ FitZone – Gym Fitness Management System
 
+**MERN Stack**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/chudasama-nilesh-7bb647275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- 📧 Email: chudasamanilesh555@gmail.com
-- 🌐 Portfolio: https://chudasamanilesh.netlify.app/
+A modern fitness management web application designed to manage gym-related activities, users, and fitness services through an intuitive interface.
 
-⚡ Fun Fact:
+**Tech:** React.js, Node.js, Express.js, MongoDB
 
-- I love turning ideas into real web applications 🚀
+---
 
+### 🤖 SmartAssist – AI Web Assistant
 
+**React.js + Gemini API**
 
+An AI-powered web assistant that integrates Generative AI capabilities into a modern React-based web application.
 
+**Tech:** React.js, JavaScript, Gemini API, REST APIs
 
+---
+
+### 🛒 Full Stack E-Commerce Application
+
+**Django + React**
+
+A full-stack e-commerce application with product management, authentication, database integration, and frontend-backend communication.
+
+**Tech:** Django, Django REST Framework, React.js, MySQL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=github_dark)
+
+---
+
+## 📈 Current Focus
+
+```text
+Full Stack Development
+        ↓
+Django + React
+        ↓
+MERN Stack
+        ↓
+REST APIs & Authentication
+        ↓
+Database Management
+        ↓
+DSA & Problem Solving
+        ↓
+Building Production-Ready Applications
+```
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/chudasama-nilesh-7bb647275/]
+* 📧 Email: [chudasamanilesh555@gmail.com]
+* 🌐 Portfolio: [https://nileshchudasamaportfolio.netlify.app/]
+* 💻 GitHub: [https://github.com/Nilesh555]
+
+---
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+Thanks for visiting my profile! ⭐
